@@ -1,0 +1,4 @@
+name: StoneGenerationEventHandler
+main: pl.bullcube.ULTUX.StoneGen.Main
+version: 1.0
+api-version: 1.15
